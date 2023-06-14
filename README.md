@@ -7,3 +7,4 @@ A repository to document learning Tensorflow, Google's end-to-end deep learning 
 ## References
 
 1. `Neptune.ai` article on Tensorboard
+2. [`Fashion MNIST` dataset](https://github.com/zalandoresearch/fashion-mnist)
