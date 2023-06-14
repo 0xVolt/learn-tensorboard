@@ -1,5 +1,6 @@
 # Get requirements from Coursera page
 tensorflow==2.8.0
+protobuf==3.20
 scikit-learn==1.0.1
 pandas==1.1.5
 matplotlib==3.2.2
